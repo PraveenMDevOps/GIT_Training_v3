@@ -5,3 +5,4 @@ gahlhgakjhjkahlkjhjkgahkj
 
 Testing Revert commit 1
 Comparison 1
+This is stashing test, changing file 1
